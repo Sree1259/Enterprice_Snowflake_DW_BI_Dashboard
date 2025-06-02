@@ -62,6 +62,9 @@ This project simulates a full data pipeline: from generating raw data to loading
 * Built Age Distribution visuals using DAX logic
 
   * Grouped ages into 7 brackets: Minor, 18–24, 25–34, ..., Above 64
+ 
+    ![image](https://github.com/user-attachments/assets/ed1a28d4-ddb6-43d5-b561-a0abf7a55f9c)
+
 
 
 ## ✅ Learnings & Highlights
